@@ -14,7 +14,7 @@ output = 'C:\Users\Lab722 BX\Desktop\GIF\';
 % each pixel per frame
 step = 10;
 
-%Start generate image%
+% Start generate image%
 [h, w, c] = size(noise);
 count = 1;
 imwrite(noise,[output num2str(count) '.png']);
