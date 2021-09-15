@@ -17,8 +17,7 @@ step = 10;
 
 ## 2. Run the code and get the frame images  
 
-## 3. Go to generate the gif data  
-
+## 3. Go GIF Maker and upload the frame images    
 - GIF Maker: https://gifmaker.me/  
 
 ## 4. Final example  
