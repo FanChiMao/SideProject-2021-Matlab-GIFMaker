@@ -28,7 +28,7 @@ step = 10;
     | Deraindrop       |          |          |  
     | Dehaze           |         	|          |  
     | Deblur           |          |          |  
-    
+
 - Deraindrop:  
   <img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" /><img src="figures/224.gif" alt="arch" width="300" style="zoom:100%;" />  
 - Dehaze:  
