@@ -23,8 +23,8 @@ step = 10;
 
 ## 4. Final example  
 - Deraindrop:  
-  <img src="figures/105.gif" alt="arch" width="600" style="zoom:100%;" />  
-
+  <img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />  
+  <img src="figures/224.gif" alt="arch" width="300" style="zoom:100%;" />  
 - Dehaze:  
 - Deblur:  
 
