@@ -22,6 +22,13 @@ step = 10;
 - GIF Maker: https://gifmaker.me/  
 
 ## 4. Final example  
+
+    | Restoration task | image 1  | image 2  |  
+    | ---------------- |:--------:|:--------:|  
+    | Deraindrop       |<img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/224.gif" alt="arch" width="300" style="zoom:100%;" />|  
+    | Dehaze           |-	|-|  
+    | Deblur           |-	|-|  
+    
 - Deraindrop:  
   <img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" /><img src="figures/224.gif" alt="arch" width="300" style="zoom:100%;" />  
 - Dehaze:  
