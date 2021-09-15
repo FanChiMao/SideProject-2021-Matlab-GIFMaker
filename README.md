@@ -23,11 +23,11 @@ step = 10;
 
 ## 4. Final example  
 
-| Quantization methods| PSNR (256)  | PSNR (512)  | PSNR (1024) |  
-| ------------------- | ----------: | ----------: | ----------: |  
-| Median-Cut          |   33.5 dB   |   35.8 dB   |   38.0 dB   |  
-| Octree              |   31.2 dB   |   31.6 dB   |   34.1 dB   |  
-| **Proposed method** |   27.8 dB   |   31.4 dB   |   35.2 dB   |  
+| Restoration task |    image 1   |  image 2     |
+| ---------------- | :----------: | :----------: |
+| Deraindrop       |<img src="figures/105.gif" alt="arch" width="200" style="zoom:100%;" />|<img src="figures/224.gif" alt="arch" width="200" style="zoom:100%;" />|
+| Dehaze           |   31.2 dB   |   31.6 dB   |
+| Deblur           |   27.8 dB   |   31.4 dB   |
 
 - Deraindrop:  
   <img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" /><img src="figures/224.gif" alt="arch" width="300" style="zoom:100%;" />  
