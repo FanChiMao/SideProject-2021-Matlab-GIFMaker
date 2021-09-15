@@ -25,7 +25,7 @@ step = 10;
 
     | Restoration task | image 1  | image 2  |  
     | ---------------- |:--------:|:--------:|  
-    | Deraindrop       | <img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" /> | <img src="figures/224.gif" alt="arch" width="300" style="zoom:100%;" /> |  
+    | Deraindrop       | - | - |  
     | Dehaze           |-	|-|  
     | Deblur           |-	|-|  
     
