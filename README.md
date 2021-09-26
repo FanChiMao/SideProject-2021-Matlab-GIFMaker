@@ -16,12 +16,14 @@ resize_factor = 0.5;
 
 ## 4. Final example  
 - Derainfrop, Dehaze  
+
 | Restoration task |    Restored images   |  Ground Truth     |
 | ---------------- | :----------: | :----------: |
 | Deraindrop       |<img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/105_clean.jpg" alt="arch" width="300" style="zoom:100%;" />|
 | Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|  
 
 - Deblur  
+
 | Video restoration|    Restored images   |  
 | ---------------- | :----------: |  
 | Orginal       |<img src="figures/105.gif" alt="arch" width="600" style="zoom:100%;" />|  
