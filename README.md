@@ -2,17 +2,12 @@
 
 ## 1. Set the path and pixel per frame  
 ```
-% Degraded image path
- noise = imread('D:\NCHU\碩士論文\deraindrop_experiment\result images\data\105_rain.jpg');
-
-% Restored image path
-result = imread('D:\NCHU\碩士論文\deraindrop_experiment\result images\our\105_Our.png');
-
-% Final save path
+%% Setting
+ noise = imread('D:\NCHU\碩士論文\dehaze_experiment\hazy\47_hazy.png');
+result = imread('D:\NCHU\碩士論文\dehaze_experiment\Ours\47_ours.png');
 output = 'C:\Users\Lab722 BX\Desktop\GIF\';
-
-% each pixel per frame
 step = 10;
+resize_factor = 0.5;
 ```
 
 ## 2. Run the code and get the frame images  
