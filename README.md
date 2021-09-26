@@ -26,7 +26,7 @@ resize_factor = 0.5;
 
   | Video restoration|    Restored images   |  
   | ---------------- | :----------: |  
-  | Orginal       |<img src="figures/GoPro_1.gif" width="600" style="zoom:100%;" />|  
+  | Orginal       |<img src="figures/GoPro_1.gif" width="700" style="zoom:100%;" />|  
   | Deblur result |<img src="figures/47.gif" alt="arch" width="600" style="zoom:100%;" />|  
 
 
