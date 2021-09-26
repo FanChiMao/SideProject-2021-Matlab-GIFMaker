@@ -15,18 +15,18 @@ resize_factor = 0.5;
 ## 3. Go [GIFMaker](https://gifmaker.me/) and upload the frame images    
 
 ## 4. Final example  
-- Derainfrop, Dehaze  
+- Derainfrop, Dehaze:  
 
-| Restoration task |    Restored images   |  Ground Truth     |
-| ---------------- | :----------: | :----------: |
-| Deraindrop       |<img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/105_clean.jpg" alt="arch" width="300" style="zoom:100%;" />|
-| Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|  
+  | Restoration task |    Restored images   |  Ground Truth     |
+  | ---------------- | :----------: | :----------: |
+  | Deraindrop       |<img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/105_clean.jpg" alt="arch" width="300" style="zoom:100%;" />|
+  | Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|  
 
-- Deblur  
+- Deblur:  
 
-| Video restoration|    Restored images   |  
-| ---------------- | :----------: |  
-| Orginal       |<img src="figures/105.gif" alt="arch" width="600" style="zoom:100%;" />|  
-| Deblur result |<img src="figures/47.gif" alt="arch" width="600" style="zoom:100%;" />|  
+  | Video restoration|    Restored images   |  
+  | ---------------- | :----------: |  
+  | Orginal       |<img src="figures/105.gif" alt="arch" width="600" style="zoom:100%;" />|  
+  | Deblur result |<img src="figures/47.gif" alt="arch" width="600" style="zoom:100%;" />|  
 
 
