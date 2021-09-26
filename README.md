@@ -24,7 +24,7 @@ step = 10;
 | Restoration task |    Restored images   |  Ground Truth     |
 | ---------------- | :----------: | :----------: |
 | Deraindrop       |<img src="figures/105.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/105_clean.jpg" alt="arch" width="300" style="zoom:100%;" />|
-| Dehaze           |-|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|
+| Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|
 | Deblur           |-|-|
 
 
