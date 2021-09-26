@@ -1,20 +1,15 @@
 clc
-clear all
+clear
 close all
-
-% Degraded image path
- noise = imread('D:\NCHU\碩士論文\deraindrop_experiment\result images\data\105_rain.jpg');
-
-% Restored image path
-result = imread('D:\NCHU\碩士論文\deraindrop_experiment\result images\our\105_Our.png');
-
-% Final save path
+%% Setting
+ noise = imread('D:\NCHU\碩士論文\dehaze_experiment\hazy\47_hazy.png');
+result = imread('D:\NCHU\碩士論文\dehaze_experiment\Ours\47_ours.png');
 output = 'C:\Users\Lab722 BX\Desktop\GIF\';
-
-% each pixel per frame
 step = 10;
-
-% Start generate image%
+resize_factor = 0.5;
+%% Process
+noise = imresize(noise, resize_factor);
+result = imresize(result, resize_factor);
 [h, w, c] = size(noise);
 count = 1;
 imwrite(noise,[output num2str(count) '.png']);
