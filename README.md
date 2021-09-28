@@ -1,4 +1,4 @@
-# Restoration_visualize_GIFMaker
+# Matlab_restoration_visualize_GIFMaker
 
 ## 1. Set the path and pixel per frame  
 ```
